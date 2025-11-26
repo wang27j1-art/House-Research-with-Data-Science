@@ -1,2 +1,2 @@
 # House-Research-with-Data-Science
-This repository contains a data science workflow I performed on a house dataset. It uses numpy, datascience, and matplotlib to analyze the data and provide visualizations.
+This repository contains a data science workflow I performed on a house dataset. It uses numpy, datascience, and matplotlib to analyze the data and provide visualizations. It contains code that computes a specified test statistic, makes a histogram of the test statistic, creates a  95% confidence interval, and plots a regression line for a scatterplot determining the area of a house for rent based on the area of a house for sale.
